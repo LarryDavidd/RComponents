@@ -1,6 +1,6 @@
 {
   "1": {
-    "img": "https://example.com/cosmos.jpg",
+    "img": "https://tattooartfromtheheart.com/wp-content/uploads/2021/04/The-Starry-Night.jpg",
     "title": "Starry Night",
     "author": "Astronaut Alex",
     "tags": ["Space", "Art"],
@@ -8,7 +8,7 @@
     "viewCount": 2300
   },
   "2": {
-    "img": "https://example.com/cityscape.jpg",
+    "img": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700316946.jpg",
     "title": "City Lights",
     "author": "Urbanite Harry",
     "tags": ["City", "Photography"],
@@ -16,7 +16,7 @@
     "viewCount": 1800
   },
   "3": {
-    "img": "https://example.com/nature.jpg",
+    "img": "https://i.pinimg.com/originals/0f/48/da/0f48da00327d93633394bb3ae4260a94.jpg",
     "title": "Under the Starry Sky",
     "author": "Traveler Paul",
     "tags": ["Nature", "Travel"],
@@ -24,7 +24,7 @@
     "viewCount": 3500
   },
   "4": {
-    "img": "https://example.com/ocean.jpg",
+    "img": "https://avatars.mds.yandex.net/i?id=716b6d61e6209fa340a62383c475ac764c2f9ad0-9041585-images-thumbs&n=13",
     "title": "Endless Sea",
     "author": "Mariner Marina",
     "tags": ["Nature", "Sea"],
@@ -32,7 +32,7 @@
     "viewCount": 2600
   },
   "5": {
-    "img": "https://example.com/mountains.jpg",
+    "img": "https://obvm.ru/wp-content/uploads/2020/04/Majestic-Mountains-Cathedral-Concept-3.jpeg",
     "title": "Majestic Mountains",
     "author": "Mountainous John",
     "tags": ["Nature", "Mountains"],
@@ -40,7 +40,7 @@
     "viewCount": 3100
   },
   "6": {
-    "img": "https://example.com/graffiti.jpg",
+    "img": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/majestic-mountains-panorama-aerial-view-fly-over-winter-snow-landscape_hnlvns0_thumbnail-1080_01.png",
     "title": "Urban Graffiti",
     "author": "Street Artist Lisa",
     "tags": ["Art", "Graffiti"],
@@ -48,7 +48,7 @@
     "viewCount": 900
   },
   "7": {
-    "img": "https://example.com/sunset.jpg",
+    "img": "https://mods.confrerie-des-traducteurs.fr/skyrim/2459/images/big/15.jpeg",
     "title": "Magical Sunset",
     "author": "Photographer Felix",
     "tags": ["Nature", "Sunset"],
@@ -56,43 +56,11 @@
     "viewCount": 2700
   },
   "8": {
-    "img": "https://example.com/animals.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Majestic_Mountain%2C_North_Cascades.jpg",
     "title": "Wild Nature",
     "author": "Zoologist Zoe",
     "tags": ["Nature", "Animals"],
     "likesCount": 700,
     "viewCount": 2400
-  },
-  "9": {
-    "img": "https://example.com/abstract.jpg",
-    "title": "Abstract Forms",
-    "author": "Artist Anna",
-    "tags": ["Art", "Abstraction"],
-    "likesCount": 400,
-    "viewCount": 1500
-  },
-  "10": {
-    "img": "https://example.com/technology.jpg",
-    "title": "Technological Progress",
-    "author": "Engineer Ivan",
-    "tags": ["Technology", "Innovation"],
-    "likesCount": 550,
-    "viewCount": 2000
-  },
-  "11": {
-    "img": "https://example.com/misc.jpg",
-    "title": "Variety of the World",
-    "author": "Versatile Maria",
-    "tags": ["Miscellaneous", "Amazing"],
-    "likesCount": 200,
-    "viewCount": 700
-  },
-  "12": {
-    "img": "https://example.com/architecture.jpg",
-    "title": "Architectural Wonders",
-    "author": "Architect Arthur",
-    "tags": ["Architecture", "Cities"],
-    "likesCount": 750,
-    "viewCount": 2200
   }
 }
