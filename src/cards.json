@@ -1,0 +1,98 @@
+{
+  "1": {
+    "img": "https://example.com/cosmos.jpg",
+    "title": "Starry Night",
+    "author": "Astronaut Alex",
+    "tags": ["Space", "Art"],
+    "likesCount": 789,
+    "viewCount": 2300
+  },
+  "2": {
+    "img": "https://example.com/cityscape.jpg",
+    "title": "City Lights",
+    "author": "Urbanite Harry",
+    "tags": ["City", "Photography"],
+    "likesCount": 450,
+    "viewCount": 1800
+  },
+  "3": {
+    "img": "https://example.com/nature.jpg",
+    "title": "Under the Starry Sky",
+    "author": "Traveler Paul",
+    "tags": ["Nature", "Travel"],
+    "likesCount": 1200,
+    "viewCount": 3500
+  },
+  "4": {
+    "img": "https://example.com/ocean.jpg",
+    "title": "Endless Sea",
+    "author": "Mariner Marina",
+    "tags": ["Nature", "Sea"],
+    "likesCount": 600,
+    "viewCount": 2600
+  },
+  "5": {
+    "img": "https://example.com/mountains.jpg",
+    "title": "Majestic Mountains",
+    "author": "Mountainous John",
+    "tags": ["Nature", "Mountains"],
+    "likesCount": 850,
+    "viewCount": 3100
+  },
+  "6": {
+    "img": "https://example.com/graffiti.jpg",
+    "title": "Urban Graffiti",
+    "author": "Street Artist Lisa",
+    "tags": ["Art", "Graffiti"],
+    "likesCount": 300,
+    "viewCount": 900
+  },
+  "7": {
+    "img": "https://example.com/sunset.jpg",
+    "title": "Magical Sunset",
+    "author": "Photographer Felix",
+    "tags": ["Nature", "Sunset"],
+    "likesCount": 950,
+    "viewCount": 2700
+  },
+  "8": {
+    "img": "https://example.com/animals.jpg",
+    "title": "Wild Nature",
+    "author": "Zoologist Zoe",
+    "tags": ["Nature", "Animals"],
+    "likesCount": 700,
+    "viewCount": 2400
+  },
+  "9": {
+    "img": "https://example.com/abstract.jpg",
+    "title": "Abstract Forms",
+    "author": "Artist Anna",
+    "tags": ["Art", "Abstraction"],
+    "likesCount": 400,
+    "viewCount": 1500
+  },
+  "10": {
+    "img": "https://example.com/technology.jpg",
+    "title": "Technological Progress",
+    "author": "Engineer Ivan",
+    "tags": ["Technology", "Innovation"],
+    "likesCount": 550,
+    "viewCount": 2000
+  },
+  "11": {
+    "img": "https://example.com/misc.jpg",
+    "title": "Variety of the World",
+    "author": "Versatile Maria",
+    "tags": ["Miscellaneous", "Amazing"],
+    "likesCount": 200,
+    "viewCount": 700
+  },
+  "12": {
+    "img": "https://example.com/architecture.jpg",
+    "title": "Architectural Wonders",
+    "author": "Architect Arthur",
+    "tags": ["Architecture", "Cities"],
+    "likesCount": 750,
+    "viewCount": 2200
+  }
+}
