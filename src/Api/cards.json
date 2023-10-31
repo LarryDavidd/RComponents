@@ -1,0 +1,66 @@
+{
+  "1": {
+    "img": "https://tattooartfromtheheart.com/wp-content/uploads/2021/04/The-Starry-Night.jpg",
+    "title": "Starry Night",
+    "author": "Astronaut Alex",
+    "tags": ["Space", "Art"],
+    "likesCount": 789,
+    "viewCount": 2300
+  },
+  "2": {
+    "img": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700316946.jpg",
+    "title": "City Lights",
+    "author": "Urbanite Harry",
+    "tags": ["City", "Photography"],
+    "likesCount": 450,
+    "viewCount": 1800
+  },
+  "3": {
+    "img": "https://i.pinimg.com/originals/0f/48/da/0f48da00327d93633394bb3ae4260a94.jpg",
+    "title": "Under the Starry Sky",
+    "author": "Traveler Paul",
+    "tags": ["Nature", "Travel"],
+    "likesCount": 1200,
+    "viewCount": 3500
+  },
+  "4": {
+    "img": "https://avatars.mds.yandex.net/i?id=716b6d61e6209fa340a62383c475ac764c2f9ad0-9041585-images-thumbs&n=13",
+    "title": "Endless Sea",
+    "author": "Mariner Marina",
+    "tags": ["Nature", "Sea"],
+    "likesCount": 600,
+    "viewCount": 2600
+  },
+  "5": {
+    "img": "https://obvm.ru/wp-content/uploads/2020/04/Majestic-Mountains-Cathedral-Concept-3.jpeg",
+    "title": "Majestic Mountains",
+    "author": "Mountainous John",
+    "tags": ["Nature", "Mountains"],
+    "likesCount": 850,
+    "viewCount": 3100
+  },
+  "6": {
+    "img": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/majestic-mountains-panorama-aerial-view-fly-over-winter-snow-landscape_hnlvns0_thumbnail-1080_01.png",
+    "title": "Urban Graffiti",
+    "author": "Street Artist Lisa",
+    "tags": ["Art", "Graffiti"],
+    "likesCount": 300,
+    "viewCount": 900
+  },
+  "7": {
+    "img": "https://mods.confrerie-des-traducteurs.fr/skyrim/2459/images/big/15.jpeg",
+    "title": "Magical Sunset",
+    "author": "Photographer Felix",
+    "tags": ["Nature", "Sunset"],
+    "likesCount": 950,
+    "viewCount": 2700
+  },
+  "8": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Majestic_Mountain%2C_North_Cascades.jpg",
+    "title": "Wild Nature",
+    "author": "Zoologist Zoe",
+    "tags": ["Nature", "Animals"],
+    "likesCount": 700,
+    "viewCount": 2400
+  }
+}
