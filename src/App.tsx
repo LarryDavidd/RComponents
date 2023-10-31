@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import SearchBar from './components/Search/SearchBar';
 import SearchResults from './components/SearchResults/SearchResult';
-import data from './Api/cards.json'; // Подключите ваш JSON-файл с данными
+import data from './Api/cards.json';
 
 interface SearchResult {
   img: string;
@@ -16,22 +16,29 @@ const convertDataToArray = (data: { [key: string]: SearchResult }): SearchResult
   return Object.values(data);
 };
 
-const App: React.FC = () => {
-  const [searchResults, setSearchResults] = useState<SearchResult[]>(convertDataToArray(data));
+class App extends React.Component<{}, { searchResults: SearchResult[] }> {
+  constructor(props: {}) {
+    super(props);
+    this.state = {
+      searchResults: convertDataToArray(data),
+    };
+  }
 
-  const handleSearch = (searchQuery: string) => {
+  handleSearch = (searchQuery: string) => {
     const filteredResults = convertDataToArray(data).filter((result: SearchResult) =>
       result.title.toLowerCase().includes(searchQuery.toLowerCase())
     );
-    setSearchResults(filteredResults);
+    this.setState({ searchResults: filteredResults });
   };
 
-  return (
-    <div className="App">
-      <SearchBar onSearch={handleSearch} />
-      <SearchResults results={searchResults} />
-    </div>
-  );
-};
+  render() {
+    return (
+      <div className="App">
+        <SearchBar onSearch={this.handleSearch} />
+        <SearchResults results={this.state.searchResults} />
+      </div>
+    );
+  }
+}
 
 export default App;
