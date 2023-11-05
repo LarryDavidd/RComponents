@@ -1,27 +1,22 @@
 import React from 'react';
+import { Datum } from '../../Types';
 
-interface CardProps {
-  img: string;
-  title: string;
-  author: string;
-  tags: string[];
-  likesCount: number;
-  viewCount: number;
+interface SearchResultsProps {
+  card: Datum;
 }
 
-const Card: React.FC<CardProps> = ({ img, title, author, tags, likesCount, viewCount }) => {
+const SearchResults: React.FC<SearchResultsProps> = ({ card }) => {
   return (
-    <div className="card">
-      <img src={img} className="card-img-top" alt={title} />
-      <div className="card-body">
-        <h5 className="card-title">{title}</h5>
-        <p className="card-text">Author: {author}</p>
-        <p className="card-text">Tags: {tags.join(', ')}</p>
-        <p className="card-text">Likes: {likesCount}</p>
-        <p className="card-text">Views: {viewCount}</p>
+    <div className="col-lg-3">
+      <div className="card text-start">
+        <img className="card-img-top" src={card.images.small} alt="Title" />
+        <div className="card-body">
+          <h4 className="card-title">{card.name}</h4>
+          <p className="card-text">Supertype: {card.supertype}</p>
+        </div>
       </div>
     </div>
   );
 };
 
-export default Card;
+export default SearchResults;
